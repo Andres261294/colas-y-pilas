@@ -1,4 +1,4 @@
-Este programa llamado pedido simula cómo un restaurante maneja los pedidos de los clientes.
+git Este programa llamado pedido simula cómo un restaurante maneja los pedidos de los clientes.
 Los pedidos llegan y se colocan en una fila (una cola) para ser preparados
 por la cocina en el mismo orden en que fueron recibidos. Esto es un ejemplo
 perfecto del principio FIFO (First-In, First-Out), que es la característica
